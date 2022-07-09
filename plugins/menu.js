@@ -29,6 +29,11 @@ const defaultMenu = {
 ╭─「 %me 🤖」
 │ 👋🏻 Hai, %name!
 │
+│      Nama : Asrori Amin
+│      Lahir : 18-10-2006
+│      Kesukaan : Loli,Roti,Mayaa
+│      Hobby : Belajar,Membaca,Menari, Menyanyi 
+│
 │ 🧱 Limit : *%limit Limit*
 │ 🦸🏼‍♂️ Role : *%role*
 │ 🔼 Level : *%level (%exp / %maxexp)*
